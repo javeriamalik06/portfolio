@@ -12,6 +12,6 @@ I did this project for my 'Analytical Approach in Marketing Decisions' course du
 I did these projects for my 'Programming for Finance' course during my undergraduate.
 * Real-life stock data used through Yahoo Finance library
 * Programming language used: Python
-* Machine Learning models:
+* Machine Learning and statistical models: Prophet(time series forecasting), RollingOLS(Rolling Regression), Backtesting
 
 # [Maven Movies Analysis-SQL](https://github.com/javeriamalik06/Maven-Movies-Analysis-SQL)
