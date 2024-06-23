@@ -12,6 +12,9 @@ I did this project for my 'Analytical Approach in Marketing Decisions' course du
 I did these projects for my 'Programming for Finance' course during my undergraduate.
 * Real-life stock data used through Yahoo Finance library
 * Programming language used: Python
-* Machine Learning and statistical models: Prophet(time series forecasting), RollingOLS(Rolling Regression), Backtesting
+* Machine Learning and statistical libraries used: Prophet(time series forecasting), RollingOLS(Rolling Regression), Backtesting
+  1. Prophet is used for time series forecasting of stock prices
+  2. RollingOLS is used to calculate beta in a rolling window for Cost of Capital calculation
+  3. Backtesting is used to test the strategies on historical data
 
 # [Maven Movies Analysis-SQL](https://github.com/javeriamalik06/Maven-Movies-Analysis-SQL)
