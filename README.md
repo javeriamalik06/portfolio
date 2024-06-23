@@ -7,14 +7,16 @@ I did this project for my 'Analytical Approach in Marketing Decisions' course du
 * Machine Learning models: Logistic Regression and Decision Trees
 * Logistic Regression was used to predict the churn and profitability
 * Decision trees was used to identify customer segments and the strategies that could be used to maximise the satisfaction from each segment
-* Final report can be found inside
+* Code and Final report available
 # [Stock and Portfolio Analysis](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction)
 I did these projects for my 'Programming for Finance' course during my undergraduate.
 * Real-life stock data used through Yahoo Finance library
 * Programming language used: Python
+  ## Project 1
 * Machine Learning and statistical libraries used: Prophet(time series forecasting), RollingOLS(Rolling Regression), Backtesting
   1. Prophet is used for time series forecasting of stock prices
   2. RollingOLS is used to calculate beta in a rolling window for Cost of Capital calculation
   3. Backtesting is used to test the strategies on historical data
+* Code and Final report available
 
 # [Maven Movies Analysis-SQL](https://github.com/javeriamalik06/Maven-Movies-Analysis-SQL)
