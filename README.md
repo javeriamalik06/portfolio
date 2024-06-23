@@ -15,5 +15,4 @@ I did these projects for my 'Programming for Finance' course during my undergrad
 * Machine Learning models:
 * sf
 
-![](Images/stock_forecast.png) 
 # [Maven Movies Analysis-SQL](https://github.com/javeriamalik06/Maven-Movies-Analysis-SQL)
