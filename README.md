@@ -2,11 +2,12 @@
 
 ### Table of Contents
 
-1. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
-2. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
+1. 
+2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
+3. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
    1. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
    2. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-3. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+4. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
 
