@@ -19,7 +19,7 @@ I did these projects for my 'Programming for Finance' course during my undergrad
   3. Backtesting is used to test the strategies on historical data
 * Code and Final report available
 * Technology: **Python**: pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy
-  ## Project 2
+  ## [Portfolio Risk Analysis and Optimization for PKGS,PPP,BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202)
   * Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
   1. Historical VaR is used for calculating Value at Risk using historical stock price data
   2. Model-Building VaR is used for calculating Value at Risk using the parametric approach and variance-covariance matrix
