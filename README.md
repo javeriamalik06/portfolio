@@ -35,4 +35,4 @@ I did these projects for my 'Programming for Finance' course during my undergrad
   3. Data Filtering and Sorting: HAVING, CASE statements
   4. Data Joins: INNER JOIN, LEFT JOIN, multi-condition joins
   5. Data Manipulation: UNION operations
-*Technology: **SQL**
+* Technology: **SQL**
