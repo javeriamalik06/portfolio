@@ -20,7 +20,7 @@ I did these projects for my 'Programming for Finance' course during my undergrad
 * Code and Final report available
 * Technology: **Python**: pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy
   ## [Portfolio Risk Analysis and Optimization for PKGS,PPP,BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202)
-  * Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
+* Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
   1. Historical VaR is used for calculating Value at Risk using historical stock price data
   2. Model-Building VaR is used for calculating Value at Risk using the parametric approach and variance-covariance matrix
   3. Monte-Carlo VaR is used for calculating Value at Risk using simulations
@@ -28,4 +28,11 @@ I did these projects for my 'Programming for Finance' course during my undergrad
 * Code and Final report available
 * Technology: **Python**: numpy, pandas, matplotlib, seaborn, scipy, statsmodels, copulae, riskfolio, psx, yfinance
 # [Maven Movies Analysis-SQL](https://github.com/javeriamalik06/Maven-Movies-Analysis-SQL)
+* Implemented SQL queries with aggregate functions, CASE statements, JOIN operations, and UNION to extract and merge comprehensive relational database insights.
+* Important Concepts Used: Exploratory Data Analysis of a movie database
+  1. Basic SQL Operations: SELECT, GROUP BY, ORDER BY
+  2. Data Aggregation: Aggregate functions (COUNT, AVG, SUM, MIN, MAX)
+  3. Data Filtering and Sorting: HAVING, CASE statements
+  4. Data Joins: INNER JOIN, LEFT JOIN, multi-condition joins
+  5. Data Manipulation: UNION operations
 *Technology: **SQL**
