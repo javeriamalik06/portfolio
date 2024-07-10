@@ -36,7 +36,7 @@ I did these projects for my 'Programming for Finance' course during my undergrad
   1. Prophet is used for time series forecasting of stock prices
   2. RollingOLS is used to calculate beta in a rolling window for Cost of Capital calculation
   3. Backtesting is used to test strategies on historical data
-* Code and Final report available
+* [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%201/Project%201%20-%20Javeria%20Malik%20-%20BPL.pdf) available
 * Technology: **Python** (pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy)
 
 ### [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) <a name="portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl"></a>
@@ -46,7 +46,7 @@ I did these projects for my 'Programming for Finance' course during my undergrad
   2. Model-Building VaR is used for calculating Value at Risk using the parametric approach and variance-covariance matrix
   3. Monte-Carlo VaR is used for calculating Value at Risk using simulations
   4. Copulas are used for modeling dependencies between different stocks in the portfolio
-* Code and Final report available
+* [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%202/Project%202%20-%20Portfolio%20Analysis%20-%20Report.pdf) available
 * Technology: **Python** (numpy, pandas, matplotlib, seaborn, scipy, statsmodels, copulae, riskfolio, psx, yfinance)
 
 ---
