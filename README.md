@@ -19,7 +19,7 @@ I did this project for my 'Analytical Approach in Marketing Decisions' course du
 * Machine Learning models: Logistic Regression and Decision Trees
 * Logistic Regression was used to predict the churn and profitability
 * Decision trees were used to identify customer segments and strategies to maximize satisfaction from each segment
-* Code and Final report available
+* [Code](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20Prediction%20Code.R) and [Final report](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%20Report.pdf) available
 * Technology: **R** (caret, PRROC, rpart, rpart.plot)
 
 ---
