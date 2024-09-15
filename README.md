@@ -2,11 +2,11 @@
 
 ### Table of Contents
 
-1. 
-2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
-3. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
+1. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
+2. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
    1. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
    2. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+3. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
 4. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
@@ -20,7 +20,7 @@ I did this project for my 'Analytical Approach in Marketing Decisions' course du
 * Logistic Regression was used to predict the churn and profitability
 * Decision trees were used to identify customer segments and strategies to maximize satisfaction from each segment
 * [Code](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20Prediction%20Code.R) and [Final report](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%20Report.pdf) available
-* Technology: **R** (caret, PRROC, rpart, rpart.plot)
+* Technology: **R** (dplyr, caret, PRROC, rpart, rpart.plot)
 
 ---
 
@@ -48,6 +48,20 @@ I did these projects for my 'Programming for Finance' course during my undergrad
   4. Copulas are used for modeling dependencies between different stocks in the portfolio
 * [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%202/Project%202%20-%20Portfolio%20Analysis%20-%20Report.pdf) available
 * Technology: **Python** (numpy, pandas, matplotlib, seaborn, scipy, statsmodels, copulae, riskfolio, psx, yfinance)
+
+---
+
+## [Pokemon Exploratory Data Analysis](https://github.com/javeriamalik06/Pokedex-EDA) <a name="pokedex-eda-analysis"></a>
+
+I did this project as part of my exploratory data analysis (EDA) practice to analyze the attributes of Pokémon from a dataset.
+
+* Dataset: [Pokedex Database](https://www.kaggle.com/datasets/hamzacyberpatcher/data-of-1010-pokemons)
+* Explored Pokémon statistics including attack, defense, and total scores by types, generations, and ranks
+* Created visualizations such as histograms, bar plots, and box plots to analyze patterns in Pokémon stats
+* Analyzed legendary, mythical, and ordinary Pokémon to find insights about their strengths and characteristics
+* Provided insights and recommendations on which Pokémon to start with and which ones to catch for players of the game
+* [Code and Analysis](https://github.com/javeriamalik06/Pokedex-EDA/blob/main/Pokedex_EDA.ipynb) available
+* Technology: **Python** (pandas, seaborn, matplotlib, numpy)
 
 ---
 
