@@ -1,6 +1,6 @@
 # Javeria Malik - Data Analysis/Science Portfolio
 
-### Table of Contents
+### Contents
 
 1. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
 2. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
