@@ -2,7 +2,7 @@
 
 Hello! I am Javeria, a data analyst and aspiring data scientist with a strong foundation in business. 
 
-I am currently pursuing my Masters in Business Analytics at University of Illinois Urbana Champaign and I have a Bachelors in Business Administration from IBA Karachi. My work experience includes a year as a Quantitative Insights Consultant at Oula (Kantar) where I strengthened my skills in data-driven insights generation, quantitative analysis and data storytelling. 
+I am currently pursuing my Masters in Business Analytics at the University of Illinois Urbana Champaign and have completed my Bachelors in Business Administration from IBA Karachi. My work experience includes a year as a Quantitative Insights Consultant at Oula (Kantar) where I strengthened my skills in data-driven insights generation, quantitative analysis and data storytelling. 
 
 The following portfolio showcases my skills, and you can find my CV [here](https://docs.google.com/document/d/1PK9DWERGcIMHOM5xXtVKMuRL0g7MPrhFnfVe63ApAU4/edit?usp=sharing). 
 
