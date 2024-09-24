@@ -1,4 +1,6 @@
 social_links:
   github: "https://github.com/javeriamalik06"
   linkedin: "https://www.linkedin.com/in/javeriamalik/"
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
