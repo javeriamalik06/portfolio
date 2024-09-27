@@ -20,8 +20,9 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 
 ## [Telecom Customer Churn Prediction](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction) <a name="telecom-customer-churn-prediction"></a>
 
-I did this project for my 'Analytical Approach in Marketing Decisions' course during my undergraduate.
+#### Business Problem
 
+#### Technical Details
 * Data was taken from Kaggle
 * Machine Learning models: Logistic Regression and Decision Trees
 * Logistic Regression was used to predict the churn and profitability
