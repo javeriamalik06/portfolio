@@ -10,11 +10,10 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 ### Contents
 
 1. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
-2. [Stock and Portfolio Analysis](#stock-and-portfolio-analysis)
-   1. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-   2. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-3. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-4. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+2. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+3. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+4. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+5. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
 
@@ -33,11 +32,7 @@ The telecom industry faces significant customer churn, threatening profitability
 
 ---
 
-## [Stock and Portfolio Analysis](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction) <a name="stock-and-portfolio-analysis"></a>
-
-I did these projects for my 'Programming for Finance' course during my undergraduate.
-
-### [Stock Analysis for Burshane Private Limited (BPL)](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) <a name="stock-analysis-for-burshane-private-limited-bpl"></a>
+## [Stock Analysis for Burshane Private Limited (BPL)](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) <a name="stock-analysis-for-burshane-private-limited-bpl"></a>
 
 * Real-life stock data used through Yahoo Finance library
 * Programming language used: Python
@@ -48,7 +43,7 @@ I did these projects for my 'Programming for Finance' course during my undergrad
 * [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%201/Project%201%20-%20Javeria%20Malik%20-%20BPL.pdf) available
 * Technology: **Python** (pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy)
 
-### [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) <a name="portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl"></a>
+## [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) <a name="portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl"></a>
 
 * Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
   1. Historical VaR is used for calculating Value at Risk using historical stock price data
