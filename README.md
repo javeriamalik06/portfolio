@@ -35,7 +35,7 @@ The telecom industry faces significant customer churn, threatening profitability
 ## [Stock Analysis for Burshane Private Limited (BPL)](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) <a name="stock-analysis-for-burshane-private-limited-bpl"></a>
 
 #### Business Problem
-The stock market presents challenges in forecasting prices and calculating cost of capital, impacting investment decisions. This project leverages time series forecasting and rolling regression to predict stock trends and assess financial risks, ultimately providing recommendations to investors on whether to buy BPL stock.
+Burshane Private Limited is a Pakistani company specializing in the distribution and marketing of liquefied petroleum gas (LPG). This project leverages time series forecasting and rolling regression to predict stock trends and assess financial risks, ultimately providing recommendations to investors on whether to buy BPL stock.
 
 #### Technical Details
 * Real-life stock data used through Yahoo Finance library
@@ -48,12 +48,16 @@ The stock market presents challenges in forecasting prices and calculating cost 
 * Technology: **Python** (pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy)
 
 #### Stock Recommendation
-BPL stock is currently not a viable investment due to its poor performance and declining trends, with forecasts predicting a gradual drop in stock prices and consistently negative cash flows. Technical indicators reveal weak performance, while high VaR and cVaR values indicate significant risk for investors. Additionally, low Pitroski’s F-score and Graham value suggest an overvalued stock and a weak financial position.
+BPL stock is currently not a viable investment due to its poor performance and declining trends, with forecasts predicting a gradual drop in stock prices and consistently negative cash flows. Technical indicators reveal weak performance, while high VaR and cVaR values indicate significant risk for investors. Low Pitroski’s F-score and Graham value suggest an overvalued stock and a weak financial position.
 
 ---
 
 ## [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) <a name="portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl"></a>
 
+#### Business Problem
+This report assesses the historical performance and risk of a stock portfolio that includes Pakistan Paper Products Limited (PPP), Packages Limited (PKGS), and Burshane Private Limited (BPL). By utilizing various Value at Risk (VaR) methods, we seek to optimize stock allocation to enhance returns while minimizing risks, facilitating informed investment decisions.
+
+#### Technical Details
 * Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
   1. Historical VaR is used for calculating Value at Risk using historical stock price data
   2. Model-Building VaR is used for calculating Value at Risk using the parametric approach and variance-covariance matrix
