@@ -43,6 +43,8 @@ The telecom industry faces significant customer churn, threatening profitability
 * [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%201/Project%201%20-%20Javeria%20Malik%20-%20BPL.pdf) available
 * Technology: **Python** (pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy)
 
+---
+
 ## [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) <a name="portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl"></a>
 
 * Important concepts used: Historical VaR, Model-Building VaR, Monte-Carlo VaR, Copulas
