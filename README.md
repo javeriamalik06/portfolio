@@ -34,6 +34,10 @@ The telecom industry faces significant customer churn, threatening profitability
 
 ## [Stock Analysis for Burshane Private Limited (BPL)](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) <a name="stock-analysis-for-burshane-private-limited-bpl"></a>
 
+#### Business Problem
+The stock market presents challenges in forecasting prices and calculating cost of capital, impacting investment decisions. This project leverages time series forecasting and rolling regression to predict stock trends and assess financial risks, ultimately providing recommendations to investors on whether to buy BPL stock.
+
+#### Technical Details
 * Real-life stock data used through Yahoo Finance library
 * Programming language used: Python
 * Important tech concepts used: Prophet (time series forecasting), RollingOLS (Rolling Regression), Backtesting
@@ -42,6 +46,9 @@ The telecom industry faces significant customer churn, threatening profitability
   3. Backtesting is used to test strategies on historical data
 * [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%201/Project%201%20-%20Javeria%20Malik%20-%20BPL.pdf) available
 * Technology: **Python** (pandas, matplotlib, seaborn, talib, prophet, backtesting, psx, numpy)
+
+#### Stock Recommendation
+BPL stock is currently not a viable investment due to its poor performance and declining trends, with forecasts predicting a gradual drop in stock prices and consistently negative cash flows. Technical indicators reveal weak performance, while high VaR and cVaR values indicate significant risk for investors. Additionally, low Pitroski’s F-score and Graham value suggest an overvalued stock and a weak financial position.
 
 ---
 
