@@ -1,5 +1,12 @@
-title: ""
 social_links:
   github: "https://github.com/javeriamalik06"
   linkedin: "https://www.linkedin.com/in/javeriamalik/"
+plugins:
+  - jekyll-titles-from-headings
+defaults:
+  - scope:
+      path: some-path
+      layout: some_layout
+    values:
+      strip_title: true
 theme: minima
