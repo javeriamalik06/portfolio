@@ -20,7 +20,7 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 ## [Telecom Customer Churn Prediction](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction) <a name="telecom-customer-churn-prediction"></a>
 
 #### Business Problem
-The telecom industry faces significant customer churn, threatening profitability and market share. This project identifies the customers at risk of churning and recommends effective retention strategies to enhance customer satisfaction and drive long-term business growth. 
+The telecom industry faces significant customer churn, threatening profitability and market share. This project identifies the customers at risk of churning in the company and recommends effective retention strategies to enhance customer satisfaction and drive long-term business growth. 
 
 #### Technical Details
 * Data was taken from Kaggle
