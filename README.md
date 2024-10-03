@@ -70,8 +70,9 @@ This report assesses the historical performance and risk of a stock portfolio th
 
 ## [Pokemon Exploratory Data Analysis](https://github.com/javeriamalik06/Pokedex-EDA) <a name="pokedex-eda-analysis"></a>
 
-I did this project as part of my exploratory data analysis (EDA) practice to analyze the attributes of Pokémon from a dataset.
-
+#### Business Problem
+As a lifelong Pokémon player, I often wondered what the ultimate combination of Pokémon would be for battle. This project explores data to identify Pokémon with the highest stats (for eg. HP, defense etc.) for optimal team selection.
+#### Technical Details
 * Dataset: [Pokedex Database](https://www.kaggle.com/datasets/hamzacyberpatcher/data-of-1010-pokemons)
 * Explored Pokémon statistics including attack, defense, and total scores by types, generations, and ranks
 * Created visualizations such as histograms, bar plots, and box plots to analyze patterns in Pokémon stats
@@ -79,6 +80,8 @@ I did this project as part of my exploratory data analysis (EDA) practice to ana
 * Provided insights and recommendations on which Pokémon to start with and which ones to catch for players of the game
 * [Code and Analysis](https://github.com/javeriamalik06/Pokedex-EDA/blob/main/Pokedex_EDA.ipynb) available
 * Technology: **Python** (pandas, seaborn, matplotlib, numpy)
+#### Recommendation
+For optimal Pokémon team composition, start with Squirtle for defense and Charmander for attack among the starter options. Steel Pokémon offer the highest defensive capabilities, making them excellent choices for fortifying your team. Meanwhile, Dragon Pokémon excel in attack, providing powerful offensive options. Additionally, including a Legendary Pokémon significantly boosts overall stats.
 
 ---
 
