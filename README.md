@@ -30,6 +30,9 @@ The telecom industry faces significant customer churn, threatening profitability
 * [Code](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20Prediction%20Code.R) and [Final report](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%20Report.pdf) available
 * Technology: **R** (dplyr, caret, PRROC, rpart, rpart.plot)
 
+#### Recommendation
+To reduce customer churn, the telecom company should implement targeted pricing strategies for price-sensitive customers, enhance DSL service reliability, and focus on personalized retention efforts for high-value customers. Continuous monitoring of customer feedback is essential to identify and address pain points. Additionally, investing in targeted marketing campaigns to highlight the company’s unique offerings and superior customer service can strengthen customer loyalty and satisfaction.
+
 ---
 
 ## [Stock Analysis for Burshane Private Limited (BPL)](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%201) <a name="stock-analysis-for-burshane-private-limited-bpl"></a>
@@ -64,7 +67,10 @@ This report assesses the historical performance and risk of a stock portfolio th
   3. Monte-Carlo VaR is used for calculating Value at Risk using simulations
   4. Copulas are used for modeling dependencies between different stocks in the portfolio
 * [Code](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/tree/main/Project%202) and [Final report](https://github.com/javeriamalik06/Stock-and-Portfolio-Analysis-and-Prediction/blob/main/Project%202/Project%202%20-%20Portfolio%20Analysis%20-%20Report.pdf) available
-* Technology: **Python** (numpy, pandas, matplotlib, seaborn, scipy, statsmodels, copulae, riskfolio, psx, yfinance)
+* Technology: **Python** (numpy, pandas, matplotlib, seaborn, scipy, statsmodels, copulae, riskfolio, psx, finance)
+
+#### Portfolio Recommendation
+The recommendations for the portfolio analysis include reallocating weights to increase investment in Packages Limited and Pakistan Paper Products Limited while reducing exposure to Burshane Private Limited. Regularly monitor performance and employ risk management strategies to mitigate losses. Utilize forecasting models for better predictions, implement periodic rebalancing, and stay informed about market trends.
 
 ---
 
