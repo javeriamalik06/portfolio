@@ -9,7 +9,7 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 ### Contents
 
 1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
-2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
+2. [Predicting Customer Churn for Telecom Company](#telecom-customer-churn-prediction)
 3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
 4. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
 5. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
@@ -50,7 +50,7 @@ For risk-averse individuals, ETFs tracking diversified indices like Russell 3000
 
 ---
 
-## [Telecom Customer Churn Prediction](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction) <a name="telecom-customer-churn-prediction"></a>
+## [Predicting Customer Churn for Telecom Company](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction) <a name="telecom-customer-churn-prediction"></a>
 
 #### Business Problem
 The telecom industry faces significant customer churn, threatening profitability and market share. This project identifies the customers at risk of churning in the company and recommends effective retention strategies to enhance customer satisfaction and drive long-term business growth. 
