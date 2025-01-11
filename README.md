@@ -12,11 +12,12 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
 3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
 4. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
-5. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
-6. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-7. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-8. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-9. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+5. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
+6. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
+7. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+8. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+9. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+10. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
 
@@ -111,6 +112,29 @@ Understanding customer preferences is key to staying ahead in any restaurant mar
 
 #### Recommendation
 For restaurants in Lutz, leveraging insights from reviews to optimize menu offerings and providing incentives to loyal customers can significantly enhance customer satisfaction. Focusing on areas with high review densities and preferred cuisines, like fast food and pizza, can maximize initial impact for new entrants.
+
+---
+
+## [Predicting Residential Property Values for Cook County](https://github.com/javeriamalik06/BigDataAnalytics-for-Finance/tree/main/Project) <a name="cook-county-property-valuation"></a>
+
+#### Business Problem
+The Cook County Assessor’s Office faced significant challenges in determining fair market values for over 1.8 million properties annually. Historical valuation methods lacked transparency and precision, leading to public dissatisfaction. This project aims to improve residential property valuation using machine learning techniques, enhancing accuracy and public trust.
+
+#### Technical Details
+- **Data Source**: Historical property sales data from Cook County
+- **Machine Learning Models Tested**: 
+  - Linear Regression (Baseline Model)
+  - Lasso Regression
+  - Forward Stepwise Selection on Linear Regression
+  - Random Forest
+- **Best Performing Model**: Linear Regression with Forward Stepwise Selection
+  - **CV MSE**: 15.88 billion
+  - **R²**: ~83.23%
+- **Technology**: Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
+- **Deliverables**: [Code](https://github.com/javeriamalik06/Cook-County-Property-Valuation/blob/main/code.py) and [Final Report](https://github.com/javeriamalik06/Cook-County-Property-Valuation/blob/main/report.pdf)
+
+#### Recommendation
+The Cook County Assessor’s Office should adopt a linear regression model with forward stepwise selection for property valuation. This approach minimizes error while maintaining model simplicity, making it interpretable for stakeholders. By addressing historical biases and inaccuracies, the office can ensure equitable taxation and foster public confidence in the assessment process.
 
 ---
 
