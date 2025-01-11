@@ -107,7 +107,7 @@ Understanding customer preferences is key to staying ahead in any restaurant mar
   - Analyzed customer sentiments from reviews and tips.
   - Determined optimal restaurant types and postal codes for targeting based on review density.
   - Recommended strategies based on reviewer loyalty and feedback trends.
-* Tools: Python (Pandas, SQLAlchemy), Azure SQL Database
+* Tools: Python (Pandas, SQLAlchemy), SQL, Azure SQL Database
 * [Code and analysis](https://github.com/javeriamalik06/Enterprise-Data-Management/tree/main/Project%201) available
 
 #### Recommendation
