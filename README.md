@@ -11,10 +11,12 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
 2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
 3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
-4. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-5. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-6. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-7. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+4. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
+5. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
+6. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+7. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+8. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+9. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
 
@@ -88,6 +90,53 @@ To maximize growth, automakers should:
 1. Align their strategies with evolving EV policies and incentives.
 2. Invest in technological innovation to meet increasing EV demand.
 3. Monitor market trends and external factors closely to stay ahead of industry shifts.
+
+---
+
+## [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](https://github.com/javeriamalik06/Enterprise-Data-Management/tree/main/Project%201) <a name="restaurant-insights-lutz"></a>
+
+#### Business Problem
+Understanding customer preferences is key to staying ahead in any restaurant market. This project aimed to analyze Yelp’s dataset to identify top-performing restaurants, preferred cuisines, and effective strategies to enhance customer satisfaction and engagement in the restaurant market of Lutz, FL.
+
+#### Technical Details
+* Data Source: Yelp API
+* Database: Azure SQL
+* Key Analyses:
+  - Identified top-rated and most-reviewed restaurants.
+  - Analyzed customer sentiments from reviews and tips.
+  - Determined optimal restaurant types and postal codes for targeting based on review density.
+  - Recommended strategies based on reviewer loyalty and feedback trends.
+* Tools: Python (Pandas, SQLAlchemy), Azure SQL Database
+* [Code and analysis](https://github.com/javeriamalik06/Enterprise-Data-Management/tree/main/Project%201) available
+
+#### Recommendation
+For restaurants in Lutz, leveraging insights from reviews to optimize menu offerings and providing incentives to loyal customers can significantly enhance customer satisfaction. Focusing on areas with high review densities and preferred cuisines, like fast food and pizza, can maximize initial impact for new entrants.
+
+---
+
+## [Chicago Traffic Accidents Analysis](https://github.com/javeriamalik06/Topics-in-Business-Intelligence) <a name="chicago-traffic-accidents-analysis"></a>
+
+#### Business Problem
+Chicago experiences a significant number of crashes annually, creating a pressing need for improved traffic safety. This project analyzes historical traffic data (2019–2024) to identify patterns, high-risk zones, and contributing factors, helping city planners and the public promote safer driving practices. Machine learning models predict crash fatality likelihood, showcasing the role of business intelligence in urban safety.
+
+#### Technical Details
+* **Data Source**: [City of Chicago Traffic Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+* **Machine Learning Models**: Logistic Regression, Random Forest
+* **Key Features**: Weather Conditions, Road Defects, Surface Conditions, Speed Limits
+* **Tools**: Python (pandas, scikit-learn, matplotlib), Tableau
+* **Focus Areas**:
+  - High-risk crash zones in downtown Chicago
+  - Timing analysis for peak accident periods
+  - Role of road conditions and weather
+* [Code](https://github.com/javeriamalik06/Topics-in-Business-Intelligence/blob/main/Chicago_Crash_EDA_areas_high_risk.ipynb) and [Report](https://github.com/javeriamalik06/Topics-in-Business-Intelligence/blob/main/Group%2016_%20Bilal%2C%20Agha%2C%20Malik%2C%20Abdalla%2C%20Tan.pptx) available
+* [Tableau dashboard](https://public.tableau.com/app/profile/damario.abdalla7630/viz/ChicagoCrashes_17331017996030/FactorsContribute?publish=yes) available
+
+#### Recommendations
+To reduce crashes:
+- Improve signage and road design in high-risk areas.
+- Increase awareness campaigns for drivers about common crash factors.
+- Deploy targeted interventions during peak crash times.
+- Monitor clear-weather crash trends and promote better driving practices.
 
 ---
 
