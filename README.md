@@ -9,11 +9,40 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 
 ### Contents
 
-1. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
-2. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-3. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-4. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-5. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
+2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
+3. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+4. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+5. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+6. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+
+---
+
+## [Understanding the Effect of Economic Indicators on US Stock Market Returns](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="understanding-economic-indicators"></a>
+
+#### Business Problem
+The stock market is sensitive to various macroeconomic factors, influencing investor decisions and portfolio strategies. This project aims to analyze the impact of economic indicators—like GDP, CPI, unemployment rates, and money supply—on US stock market performance. By identifying correlations and predictive relationships, the study provides insights for investors with different risk appetites to make informed decisions.
+
+#### Technical Details
+Data Sources:
+  Stock Data: Yahoo Finance
+  Economic Data: Federal Reserve Economic Development (FRED)
+Analysis Workflow:
+  Data Cleaning and Merging
+  Correlation Analysis (Seaborn visualizations)
+  Multiple Linear Regression for impact analysis
+  Performance evaluation with metrics (Mean Squared Error and R-squared)
+Model Results:
+  Strong Correlations: GDP and Personal Consumption Expenditure (PCE) positively influence stock returns.
+  Weak Correlations: Unemployment and core inflation have limited short-term effects on market performance.
+Market Index Insights:
+  S&P 500: Best overall fit, balanced metrics.
+  Dow Jones: Strong predictive power but higher error rates.
+  Russell 3000: Least volatile, suitable for risk-averse investors.
+Technology: Python (Pandas, NumPy, Seaborn, Scikit-learn)
+
+#### Recommendations
+For risk-averse individuals, ETFs tracking diversified indices like Russell 3000 are ideal, offering stability against economic fluctuations. Risk-tolerant investors might prefer Dow Jones due to its high sensitivity to economic activity, yielding potentially higher returns.
 
 ---
 
