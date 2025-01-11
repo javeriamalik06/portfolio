@@ -11,10 +11,11 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 
 1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
 2. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
-3. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-4. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-5. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-6. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
+4. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+5. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+6. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+7. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
 
 ---
 
@@ -40,7 +41,7 @@ The stock market is sensitive to various macroeconomic factors, influencing inve
   2. Dow Jones: Strong predictive power but higher error rates.
   3. Russell 3000: Least volatile, suitable for risk-averse investors.
 * [Code](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance/blob/main/Advanced%20Python%20for%20Finance%20Project%20Team%207%20Code%20file.ipynb) and [Report](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance/blob/main/Understanding%20effect%20of%20econ%20indicators%20on%20market%20returns%20-%20Team%207.pptx) available.
-* Technology: Python (Pandas, NumPy, Seaborn, Scikit-learn)
+* Tools: Python (Pandas, NumPy, Seaborn, Scikit-learn)
 
 #### Recommendations
 For risk-averse individuals, ETFs tracking diversified indices like Russell 3000 are ideal, offering stability against economic fluctuations. Risk-tolerant investors might prefer Dow Jones due to its high sensitivity to economic activity, yielding potentially higher returns.
@@ -58,10 +59,36 @@ The telecom industry faces significant customer churn, threatening profitability
 * Logistic Regression was used to predict the churn and profitability
 * Decision trees were used to identify customer segments and strategies to maximize satisfaction from each segment
 * [Code](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20Prediction%20Code.R) and [Final report](https://github.com/javeriamalik06/Telecom-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%20Report.pdf) available
-* Technology: **R** (dplyr, caret, PRROC, rpart, rpart.plot)
+* Tools: **R** (dplyr, caret, PRROC, rpart, rpart.plot)
 
 #### Recommendation
 To reduce customer churn, the telecom company should implement targeted pricing strategies for price-sensitive customers, enhance DSL service reliability, and focus on personalized retention efforts for high-value customers. Continuous monitoring of customer feedback is essential to identify and address pain points. Additionally, investing in targeted marketing campaigns to highlight the company’s unique offerings and superior customer service can strengthen customer loyalty and satisfaction.
+
+---
+
+## [Impact of Electric Vehicles Adoption on Automaker Stock Performance](https://github.com/javeriamalik06/Data-Storytelling) <a name="ev-auto-industry-impact"></a>
+
+#### Business Problem
+The adoption of electric vehicles (EVs) is transforming the global auto industry. This project explores how significant EV-related events, such as Tesla's IPO and the Inflation Reduction Act, have impacted the stock prices of key automakers and evaluates their alignment with broader market trends.
+
+#### Technical Details
+* Companies analyzed: Tesla, Rivian, Ford, Ferrari, Toyota, Honda
+* Events covered: Tesla IPO, COVID-19, Volkswagen Dieselgate, Inflation Reduction Act
+* Data Sources: Finnhub Stock API, Nasdaq Data Link
+* Techniques: Regression analysis, correlation metrics, stock performance benchmarking
+* Tools: Mathematica
+* [Code](https://github.com/javeriamalik06/Data-Storytelling/blob/main/Final_Project_Group%2013.nb) and [Presentation](https://github.com/javeriamalik06/Data-Storytelling/blob/main/Data%20Storytelling%20Presentation.pptx) available
+
+#### Findings
+* EV-focused companies (e.g., Tesla) often exhibit higher volatility but stronger growth trends.
+* Events like COVID-19 and the Inflation Reduction Act highlighted the resilience of traditional automakers.
+* Regression analysis revealed varying levels of market dependence among automakers.
+
+#### Recommendations
+To maximize growth, automakers should:
+1. Align their strategies with evolving EV policies and incentives.
+2. Invest in technological innovation to meet increasing EV demand.
+3. Monitor market trends and external factors closely to stay ahead of industry shifts.
 
 ---
 
