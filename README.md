@@ -21,7 +21,7 @@ The following portfolio showcases my skills, and you can find my CV [here](https
 ## [Understanding the Effect of Economic Indicators on US Stock Market Returns](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="understanding-economic-indicators"></a>
 
 #### Business Problem
-The stock market is sensitive to various macroeconomic factors, influencing investor decisions and portfolio strategies. This project aims to analyze the impact of economic indicators—like GDP, CPI, unemployment rates, and money supply—on US stock market performance. By identifying correlations and predictive relationships, the study provides insights for investors with different risk appetites to make informed decisions.
+The stock market is sensitive to various macroeconomic factors, influencing investor decisions and portfolio strategies. This project aims to analyze the impact of economic indicators—like GDP, CPI, unemployment rates, and money supply—on US stock market performance. By identifying correlations and relationships, the study provides insights for investors with different risk appetites to make informed decisions.
 
 #### Technical Details
 * Data Sources:
