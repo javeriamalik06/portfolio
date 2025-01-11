@@ -117,7 +117,7 @@ For restaurants in Lutz, leveraging insights from reviews to optimize menu offer
 ## [Chicago Traffic Accidents Analysis](https://github.com/javeriamalik06/Topics-in-Business-Intelligence) <a name="chicago-traffic-accidents-analysis"></a>
 
 #### Business Problem
-Chicago experiences a significant number of crashes annually, creating a pressing need for improved traffic safety. This project analyzes historical traffic data (2019–2024) to identify patterns, high-risk zones, and contributing factors, helping city planners and the public promote safer driving practices. Machine learning models predict crash fatality likelihood, showcasing the role of business intelligence in urban safety.
+Chicago experiences at least over 100k crashes annually, creating a pressing need for improved traffic safety. This project analyzes historical traffic data (2019–2024) to identify patterns, high-risk zones, and contributing factors, helping city planners and the public promote safer driving practices. Machine learning models predict crash fatality likelihood, showcasing the role of business intelligence in urban safety.
 
 #### Technical Details
 * **Data Source**: [City of Chicago Traffic Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
