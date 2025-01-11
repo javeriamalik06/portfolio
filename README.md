@@ -27,8 +27,8 @@ The stock market is sensitive to various macroeconomic factors, influencing inve
 * Data Sources: Yahoo Finance (Stock data) and FRED-Federal Reserve Economic Development (Economic Data)
 * Analysis Workflow: Data Cleaning and Merging, Correlation Analysis (Seaborn visualizations), Multiple Linear Regression for impact analysis, Performance evaluation with metrics (Mean Squared Error and R-squared)
 * Model Results:
-  Strong Correlations: GDP and Personal Consumption Expenditure (PCE) positively influence stock returns.
-  Weak Correlations: Unemployment and core inflation have limited short-term effects on market performance.
+  1. Strong Correlations: GDP and Personal Consumption Expenditure (PCE) positively influence stock returns.
+  2. Weak Correlations: Unemployment and core inflation have limited short-term effects on market performance.
 * Market Index Insights:
   S&P 500: Best overall fit, balanced metrics.
   Dow Jones: Strong predictive power but higher error rates.
