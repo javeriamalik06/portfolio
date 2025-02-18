@@ -8,24 +8,18 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 
 ### Contents
 
-1. [FIFA World Cup PowerBi Dashboard](#fifa-dashboard)
-2. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
-3. [Predicting Customer Churn for Telecom Company](#telecom-customer-churn-prediction)
-4. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
-5. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
-6. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
-7. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
-8. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-9. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-10. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-11. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
-
----
-
-## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
-
-![FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/FIFA%20World%20Cup.png)
-
+1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
+2. [Predicting Customer Churn for Telecom Company](#telecom-customer-churn-prediction)
+3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
+4. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
+5. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
+6. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
+7. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+8. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+9. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+10. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+11. [Maven Cycles Sales Dashboard](#maven-cycles-dashboard)
+12. [FIFA World Cup PowerBi Dashboard](#fifa-dashboard)
 
 ---
 
@@ -238,3 +232,18 @@ For optimal Pokémon team composition, start with Squirtle for defense and Charm
   4. Data Joins: INNER JOIN, LEFT JOIN, multi-condition joins
   5. Data Manipulation: UNION operations
 * Technology: **SQL**
+
+---
+
+## [Maven Cycles Sales Dashboard](https://project.novypro.com/xq4nsJ)<a name="maven-cycles-dashboard"></a>
+
+![Maven Cycles Sales Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/Maven%20Cycles%20Sales%20Dashboard.png)
+
+Check the interactive dashboard [here](https://project.novypro.com/xq4nsJ)
+
+---
+
+## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
+
+![FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/FIFA%20World%20Cup.png)
+
