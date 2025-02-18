@@ -24,6 +24,9 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 
 ## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
 
+![FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/FIFA%20World%20Cup.png)
+
+
 ---
 
 ## [Understanding the Effect of Economic Indicators on US Stock Market Returns](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="understanding-economic-indicators"></a>
