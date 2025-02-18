@@ -8,16 +8,21 @@ I am currently pursuing my Masters in Business Analytics at the University of Il
 
 ### Contents
 
-1. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
-2. [Predicting Customer Churn for Telecom Company](#telecom-customer-churn-prediction)
-3. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
-4. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
-5. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
-6. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
-7. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
-8. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
-9. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
-10. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+1. [FIFA World Cup PowerBi Dashboard](#fifa-dashboard)
+2. [Understanding the Effect of Economic Indicators on US Stock Market Returns](#understanding-economic-indicators)
+3. [Predicting Customer Churn for Telecom Company](#telecom-customer-churn-prediction)
+4. [Impact of Electric Vehicles Adoption on Automaker Stock Performance](#ev-auto-industry-impact)
+5. [Uncovering Customer Preferences in Lutz's Restaurant Market Using Yelp Data](#restaurant-insights-lutz)
+6. [Predicting Residential Property Values for Cook County](#cook-county-property-valuation)
+7. [Chicago Traffic Accidents Analysis](#chicago-traffic-accidents-analysis)
+8. [Stock Analysis for Burshane Private Limited (BPL)](#stock-analysis-for-burshane-private-limited-bpl)
+9. [Portfolio Risk Analysis and Optimization for PKGS, PPP, BPL](#portfolio-risk-analysis-and-optimization-for-pkgs-ppp-bpl)
+10. [Pokemon Exploratory Data Analysis](#pokedex-eda-analysis)
+11. [Maven Movies Analysis-SQL](#maven-movies-analysis-sql)
+
+---
+
+## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
 
 ---
 
