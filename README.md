@@ -237,7 +237,7 @@ For optimal Pokémon team composition, start with Squirtle for defense and Charm
 
 ## [Maven Cycles Sales Dashboard](https://project.novypro.com/xq4nsJ)<a name="maven-cycles-dashboard"></a>
 
-![Maven Cycles Sales Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/Maven%20Cycles%20Sales%20Dashboard.png)
+![Maven Cycles Sales Dashboard](https://raw.githubusercontent.com/javeriamalik06/portfolio/main/Maven%20Cycles%20Sales%20Dashboard.png)
 
 Check the interactive dashboard [here](https://project.novypro.com/xq4nsJ)
 
@@ -245,5 +245,6 @@ Check the interactive dashboard [here](https://project.novypro.com/xq4nsJ)
 
 ## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
 
-![FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/portfolio/blob/main/FIFA%20World%20Cup.png)
+![FIFA World Cup PowerBi Dashboard](https://raw.githubusercontent.com/javeriamalik06/portfolio/main/FIFA%20World%20Cup.png)
+
 
